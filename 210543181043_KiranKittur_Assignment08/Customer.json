@@ -1,0 +1,6 @@
+[
+    {"cust_code":"1","cust_name":"Kiran","gender":"Female","DOB":"11-01-1998","address":"Satara","phone":"134678901"},
+    {"cust_code":"2","cust_name":"Kunal","gender":"Male","DOB":"30-01-1996","address":"Pune","phone":"1234567890"},
+    {"cust_code":"3","cust_name":"Pravin","gender":"Male","DOB":"07-08-1996","address":"Nanded","phone":"0123987456"},
+    {"cust_code":"4","cust_name":"Mahadev","gender":"Male","DOB":"07-05-1950","address":"Belgaon","phone":"9638527410"}
+]

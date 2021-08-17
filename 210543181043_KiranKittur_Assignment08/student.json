@@ -1,0 +1,12 @@
+[
+    {"rollno":"1","name":"kiran","age":"23","address":"Satara","gender":"Female"},
+    {"rollno":"2","name":"Kunal","age":"27","address":"Pune","gender":"Male"},
+    {"rollno":"3","name":"Mahadev","age":"27","address":"Kittur","gender":"Male"},
+    {"rollno":"4","name":"Savita","age":"27","address":"Bhor","gender":"Female"},
+    {"rollno":"5","name":"Omkar","age":"24","address":"Shirwal","gender":"Male"},
+    {"rollno":"6","name":"Rohan","age":"22","address":"Khandala","gender":"Male"},
+    {"rollno":"7","name":"Pravin","age":"25","address":"Nanded","gender":"Male"},
+    {"rollno":"8","name":"Rasika","age":"21","address":"Satara","gender":"Female"},
+    {"rollno":"9","name":"Ayush","age":"22","address":"Shriur","gender":"Male"},
+    {"rollno":"10","name":"Shruti","age":"23","address":"Karad","gender":"Female"}
+]
